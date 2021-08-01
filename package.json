@@ -1,0 +1,19 @@
+{
+  "name": "palm-network-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx truffle compile",
+    "deploy-wpalm": "npx truffle exec --network localhost scripts/deploy-wpalm.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.4.2",
+    "truffle": "^5.4.3"
+  }
+}
