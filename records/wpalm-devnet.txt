@@ -1,0 +1,10 @@
+Using network 'palmdev'.
+
+Deploying WPALM contract with options: 
+{
+    "from": "0x150026bC79359a4349e98B4567d832EeCAEe5fdd",
+    "gas": 4000000,
+    "gasPrice": 10000000000,
+    "nonce": 0
+}
+Deployed at: 0xF98cABF0a963452C5536330408B2590567611a71
