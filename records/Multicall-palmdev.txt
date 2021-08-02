@@ -1,0 +1,4 @@
+Deployer Address: 0x150026bC79359a4349e98B4567d832EeCAEe5fdd
+Network: palmdev
+Contract: Multicall
+Deployed At: 0x99a73dfE34578348fb81BD078201C0BA84E9c840
