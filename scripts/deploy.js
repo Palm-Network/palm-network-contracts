@@ -22,7 +22,7 @@ async function main() {
         gasPrice,
         nonce,
     };
-    console.log(`Deploying WPALM contract with options: \n${JSON.stringify(deployOptions, null, 4)}`);
+    console.log(`Deploying ${CONTRACT} contract with options: \n${JSON.stringify(deployOptions, null, 4)}`);
 
     const instance = await CONTRACT.new(deployOptions);
 
